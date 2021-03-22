@@ -2,7 +2,7 @@
   <div class="main">
     <div class="back-img">
         <img
-          src="./assets/img/bg/bg.jpg"
+          src="./assets/image/miko.jpg"
           alt="404"
           style="width:100%;filter:blur(80px);"
         />
