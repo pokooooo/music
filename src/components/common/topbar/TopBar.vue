@@ -62,8 +62,8 @@
           password: [{ required: true, message: " ", trigger: "blur" }],
         },// 登录格式的校验
         form: {
-          phone: "13294106618",
-          password: "1210795272",
+          phone: "",
+          password: "",
         },
         formLabelWidth: "80px", //登录内输入框的宽度
       }
